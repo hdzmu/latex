@@ -4,3 +4,5 @@ git add . (agregar/preparar archivos)
 git commit -m 'enter msj' (enviar)
 
 git remote add origin https://github.com/hdzmu/latex.git
+
+git push -u origin master
